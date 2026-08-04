@@ -1,0 +1,12 @@
+pandas
+pdfplumber
+camelot-py
+matplotlib
+seaborn
+streamlit
+jupyter
+notebook
+requests
+beautifulsoup4
+lxml
+ipykernel

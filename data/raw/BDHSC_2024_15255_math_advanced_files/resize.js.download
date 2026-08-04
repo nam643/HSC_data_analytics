@@ -1,0 +1,28 @@
+function resizeUp() {
+	if(!document.getElementById('cim_page-wrapper').style.fontSize){
+		document.getElementById('cim_page-wrapper').style.fontSize = '90%';
+	} else {
+		var str_fontsize = document.getElementById('cim_page-wrapper').style.fontSize;
+		var num_fontsize = str_fontsize.substring(0,str_fontsize.length-1);
+		//alert(num_fontsize);
+		var num_newsize = num_fontsize * 1.1;
+		document.getElementById('cim_page-wrapper').style.fontSize = num_newsize + '%';
+	}
+}
+
+function resizeZero() {
+	document.getElementById('cim_page-wrapper').style.fontSize = '80%';
+}
+
+function resizeDown() {
+	if(!document.getElementById('cim_page-wrapper').style.fontSize){
+		document.getElementById('cim_page-wrapper').style.fontSize = '70%';
+	} else {
+		var str_fontsize = document.getElementById('cim_page-wrapper').style.fontSize;
+		var num_fontsize = str_fontsize.substring(0,str_fontsize.length-1);
+		//alert(num_fontsize);
+		var num_newsize = num_fontsize * 0.9;
+		document.getElementById('cim_page-wrapper').style.fontSize = num_newsize + '%';
+		//alert(num_newsize + '%');
+	}
+}
