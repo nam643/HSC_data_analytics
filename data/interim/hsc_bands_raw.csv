@@ -1,0 +1,251 @@
+band,percentage,candidature,year,course_name,course_code
+6,7.16,18712,2021,Biology,15030
+5,24.14,18712,2021,Biology,15030
+4,34.79,18712,2021,Biology,15030
+3,25.15,18712,2021,Biology,15030
+2,6.68,18712,2021,Biology,15030
+1,2.05,18712,2021,Biology,15030
+6,10.96,9885,2021,Chemistry,15050
+5,29.42,9885,2021,Chemistry,15050
+4,25.88,9885,2021,Chemistry,15050
+3,22.42,9885,2021,Chemistry,15050
+2,9.22,9885,2021,Chemistry,15050
+1,2.06,9885,2021,Chemistry,15050
+6,16.3,24412,2021,English Advanced,15140
+5,52.47,24412,2021,English Advanced,15140
+4,25.11,24412,2021,English Advanced,15140
+3,5.4,24412,2021,English Advanced,15140
+2,0.62,24412,2021,English Advanced,15140
+1,0.08,24412,2021,English Advanced,15140
+6,0.59,31343,2021,English Standard,15130
+5,16.03,31343,2021,English Standard,15130
+4,41.2,31343,2021,English Standard,15130
+3,32.71,31343,2021,English Standard,15130
+2,7.84,31343,2021,English Standard,15130
+1,1.6,31343,2021,English Standard,15130
+6,14.79,10694,2021,Legal Studies,15220
+5,27.55,10694,2021,Legal Studies,15220
+4,26.81,10694,2021,Legal Studies,15220
+3,17.19,10694,2021,Legal Studies,15220
+2,9.68,10694,2021,Legal Studies,15220
+1,3.94,10694,2021,Legal Studies,15220
+6,23.24,16770,2021,Mathematics Advanced,15255
+5,26.97,16770,2021,Mathematics Advanced,15255
+4,28.54,16770,2021,Mathematics Advanced,15255
+3,15.08,16770,2021,Mathematics Advanced,15255
+2,4.28,16770,2021,Mathematics Advanced,15255
+1,1.87,16770,2021,Mathematics Advanced,15255
+E4,37.26,8547,2021,Mathematics Extension 1,15250
+E3,36.99,8547,2021,Mathematics Extension 1,15250
+E2,19.93,8547,2021,Mathematics Extension 1,15250
+E1,5.8,8547,2021,Mathematics Extension 1,15250
+E4,42.81,3193,2021,Mathematics Extension 2,15260
+E3,43.81,3193,2021,Mathematics Extension 2,15260
+E2,11.96,3193,2021,Mathematics Extension 2,15260
+E1,1.4,3193,2021,Mathematics Extension 2,15260
+6,12.42,7922,2021,Physics,15330
+5,28.19,7922,2021,Physics,15330
+4,30.71,7922,2021,Physics,15330
+3,19.51,7922,2021,Physics,15330
+2,7.39,7922,2021,Physics,15330
+1,1.75,7922,2021,Physics,15330
+6,6.35,18893,2022,Biology,15030
+5,20.47,18893,2022,Biology,15030
+4,26.51,18893,2022,Biology,15030
+3,26.4,18893,2022,Biology,15030
+2,16.0,18893,2022,Biology,15030
+1,4.24,18893,2022,Biology,15030
+6,9.22,9930,2022,Chemistry,15050
+5,23.94,9930,2022,Chemistry,15050
+4,30.8,9930,2022,Chemistry,15050
+3,20.56,9930,2022,Chemistry,15050
+2,11.36,9930,2022,Chemistry,15050
+1,4.08,9930,2022,Chemistry,15050
+6,14.52,24661,2022,English Advanced,15140
+5,52.64,24661,2022,English Advanced,15140
+4,26.06,24661,2022,English Advanced,15140
+3,5.9,24661,2022,English Advanced,15140
+2,0.81,24661,2022,English Advanced,15140
+1,0.04,24661,2022,English Advanced,15140
+6,0.56,30646,2022,English Standard,15130
+5,14.89,30646,2022,English Standard,15130
+4,40.25,30646,2022,English Standard,15130
+3,32.28,30646,2022,English Standard,15130
+2,10.69,30646,2022,English Standard,15130
+1,1.3,30646,2022,English Standard,15130
+6,14.63,10225,2022,Legal Studies,15220
+5,26.33,10225,2022,Legal Studies,15220
+4,25.2,10225,2022,Legal Studies,15220
+3,18.65,10225,2022,Legal Studies,15220
+2,10.0,10225,2022,Legal Studies,15220
+1,5.17,10225,2022,Legal Studies,15220
+6,22.58,16867,2022,Mathematics Advanced,15255
+5,26.41,16867,2022,Mathematics Advanced,15255
+4,27.42,16867,2022,Mathematics Advanced,15255
+3,18.05,16867,2022,Mathematics Advanced,15255
+2,4.6,16867,2022,Mathematics Advanced,15255
+1,0.91,16867,2022,Mathematics Advanced,15255
+E4,34.76,8680,2022,Mathematics Extension 1,15250
+E3,38.8,8680,2022,Mathematics Extension 1,15250
+E2,20.47,8680,2022,Mathematics Extension 1,15250
+E1,5.95,8680,2022,Mathematics Extension 1,15250
+E4,39.55,3271,2022,Mathematics Extension 2,15260
+E3,45.55,3271,2022,Mathematics Extension 2,15260
+E2,10.97,3271,2022,Mathematics Extension 2,15260
+E1,3.91,3271,2022,Mathematics Extension 2,15260
+6,12.35,7633,2022,Physics,15330
+5,29.09,7633,2022,Physics,15330
+4,26.54,7633,2022,Physics,15330
+3,18.76,7633,2022,Physics,15330
+2,9.28,7633,2022,Physics,15330
+1,3.95,7633,2022,Physics,15330
+6,8.31,19383,2023,Biology,15030
+5,23.68,19383,2023,Biology,15030
+4,31.92,19383,2023,Biology,15030
+3,25.48,19383,2023,Biology,15030
+2,9.15,19383,2023,Biology,15030
+1,1.47,19383,2023,Biology,15030
+6,12.41,9892,2023,Chemistry,15050
+5,25.91,9892,2023,Chemistry,15050
+4,27.99,9892,2023,Chemistry,15050
+3,19.39,9892,2023,Chemistry,15050
+2,12.45,9892,2023,Chemistry,15050
+1,1.84,9892,2023,Chemistry,15050
+6,13.8,25102,2023,English Advanced,15140
+5,53.39,25102,2023,English Advanced,15140
+4,28.16,25102,2023,English Advanced,15140
+3,4.09,25102,2023,English Advanced,15140
+2,0.5,25102,2023,English Advanced,15140
+1,0.06,25102,2023,English Advanced,15140
+6,0.31,31697,2023,English Standard,15130
+5,12.87,31697,2023,English Standard,15130
+4,46.51,31697,2023,English Standard,15130
+3,30.01,31697,2023,English Standard,15130
+2,8.7,31697,2023,English Standard,15130
+1,1.6,31697,2023,English Standard,15130
+6,13.97,10244,2023,Legal Studies,15220
+5,28.54,10244,2023,Legal Studies,15220
+4,26.96,10244,2023,Legal Studies,15220
+3,20.81,10244,2023,Legal Studies,15220
+2,6.94,10244,2023,Legal Studies,15220
+1,2.77,10244,2023,Legal Studies,15220
+6,22.35,16428,2023,Mathematics Advanced,15255
+5,27.45,16428,2023,Mathematics Advanced,15255
+4,25.6,16428,2023,Mathematics Advanced,15255
+3,17.67,16428,2023,Mathematics Advanced,15255
+2,5.58,16428,2023,Mathematics Advanced,15255
+1,1.35,16428,2023,Mathematics Advanced,15255
+E4,34.28,8390,2023,Mathematics Extension 1,15250
+E3,37.65,8390,2023,Mathematics Extension 1,15250
+E2,24.02,8390,2023,Mathematics Extension 1,15250
+E1,4.05,8390,2023,Mathematics Extension 1,15250
+E4,37.82,3273,2023,Mathematics Extension 2,15260
+E3,47.97,3273,2023,Mathematics Extension 2,15260
+E2,12.83,3273,2023,Mathematics Extension 2,15260
+E1,1.37,3273,2023,Mathematics Extension 2,15260
+6,13.1,7921,2023,Physics,15330
+5,25.84,7921,2023,Physics,15330
+4,28.56,7921,2023,Physics,15330
+3,21.6,7921,2023,Physics,15330
+2,9.81,7921,2023,Physics,15330
+1,1.09,7921,2023,Physics,15330
+6,6.7,19046,2024,Biology,15030
+5,28.89,19046,2024,Biology,15030
+4,34.51,19046,2024,Biology,15030
+3,18.14,19046,2024,Biology,15030
+2,9.53,19046,2024,Biology,15030
+1,2.22,19046,2024,Biology,15030
+6,11.45,9722,2024,Chemistry,15050
+5,27.37,9722,2024,Chemistry,15050
+4,28.44,9722,2024,Chemistry,15050
+3,20.0,9722,2024,Chemistry,15050
+2,10.67,9722,2024,Chemistry,15050
+1,2.08,9722,2024,Chemistry,15050
+6,15.1,25398,2024,English Advanced,15140
+5,52.47,25398,2024,English Advanced,15140
+4,28.96,25398,2024,English Advanced,15140
+3,2.97,25398,2024,English Advanced,15140
+2,0.44,25398,2024,English Advanced,15140
+1,0.06,25398,2024,English Advanced,15140
+6,0.55,32994,2024,English Standard,15130
+5,12.86,32994,2024,English Standard,15130
+4,53.89,32994,2024,English Standard,15130
+3,25.1,32994,2024,English Standard,15130
+2,6.94,32994,2024,English Standard,15130
+1,0.66,32994,2024,English Standard,15130
+6,15.4,10210,2024,Legal Studies,15220
+5,28.18,10210,2024,Legal Studies,15220
+4,25.88,10210,2024,Legal Studies,15220
+3,20.05,10210,2024,Legal Studies,15220
+2,8.63,10210,2024,Legal Studies,15220
+1,1.87,10210,2024,Legal Studies,15220
+6,22.33,16561,2024,Mathematics Advanced,15255
+5,27.7,16561,2024,Mathematics Advanced,15255
+4,27.32,16561,2024,Mathematics Advanced,15255
+3,17.4,16561,2024,Mathematics Advanced,15255
+2,4.71,16561,2024,Mathematics Advanced,15255
+1,0.54,16561,2024,Mathematics Advanced,15255
+E4,34.95,8846,2024,Mathematics Extension 1,15250
+E3,45.38,8846,2024,Mathematics Extension 1,15250
+E2,17.16,8846,2024,Mathematics Extension 1,15250
+E1,2.51,8846,2024,Mathematics Extension 1,15250
+E4,40.24,3544,2024,Mathematics Extension 2,15260
+E3,46.13,3544,2024,Mathematics Extension 2,15260
+E2,11.96,3544,2024,Mathematics Extension 2,15260
+E1,1.66,3544,2024,Mathematics Extension 2,15260
+6,12.4,8215,2024,Physics,15330
+5,25.92,8215,2024,Physics,15330
+4,26.8,8215,2024,Physics,15330
+3,21.01,8215,2024,Physics,15330
+2,11.0,8215,2024,Physics,15330
+1,2.86,8215,2024,Physics,15330
+6,7.41,20710,2025,Biology,15030
+5,28.32,20710,2025,Biology,15030
+4,29.69,20710,2025,Biology,15030
+3,21.23,20710,2025,Biology,15030
+2,9.68,20710,2025,Biology,15030
+1,3.66,20710,2025,Biology,15030
+6,11.16,10369,2025,Chemistry,15050
+5,26.89,10369,2025,Chemistry,15050
+4,33.18,10369,2025,Chemistry,15050
+3,18.56,10369,2025,Chemistry,15050
+2,8.62,10369,2025,Chemistry,15050
+1,1.59,10369,2025,Chemistry,15050
+6,13.46,26293,2025,English Advanced,15140
+5,51.78,26293,2025,English Advanced,15140
+4,31.5,26293,2025,English Advanced,15140
+3,3.01,26293,2025,English Advanced,15140
+2,0.25,26293,2025,English Advanced,15140
+1,0.01,26293,2025,English Advanced,15140
+6,0.42,33653,2025,English Standard,15130
+5,12.45,33653,2025,English Standard,15130
+4,54.98,33653,2025,English Standard,15130
+3,26.38,33653,2025,English Standard,15130
+2,5.29,33653,2025,English Standard,15130
+1,0.47,33653,2025,English Standard,15130
+6,15.42,10080,2025,Legal Studies,15220
+5,29.28,10080,2025,Legal Studies,15220
+4,23.69,10080,2025,Legal Studies,15220
+3,18.9,10080,2025,Legal Studies,15220
+2,9.82,10080,2025,Legal Studies,15220
+1,2.9,10080,2025,Legal Studies,15220
+6,23.15,16809,2025,Mathematics Advanced,15255
+5,28.31,16809,2025,Mathematics Advanced,15255
+4,29.01,16809,2025,Mathematics Advanced,15255
+3,13.94,16809,2025,Mathematics Advanced,15255
+2,3.88,16809,2025,Mathematics Advanced,15255
+1,1.71,16809,2025,Mathematics Advanced,15255
+E4,34.71,9279,2025,Mathematics Extension 1,15250
+E3,42.62,9279,2025,Mathematics Extension 1,15250
+E2,18.04,9279,2025,Mathematics Extension 1,15250
+E1,4.62,9279,2025,Mathematics Extension 1,15250
+E4,41.49,3844,2025,Mathematics Extension 2,15260
+E3,42.92,3844,2025,Mathematics Extension 2,15260
+E2,14.31,3844,2025,Mathematics Extension 2,15260
+E1,1.27,3844,2025,Mathematics Extension 2,15260
+6,12.54,8817,2025,Physics,15330
+5,25.19,8817,2025,Physics,15330
+4,25.75,8817,2025,Physics,15330
+3,21.21,8817,2025,Physics,15330
+2,13.81,8817,2025,Physics,15330
+1,1.5,8817,2025,Physics,15330
