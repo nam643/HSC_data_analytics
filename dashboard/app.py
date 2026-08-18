@@ -5,7 +5,7 @@ from pathlib import Path
 
 
 st.title("NSW HSC result explorer")
-
+st.write("Explore NSW HSC performance-band distributions and enrolments, 2021–2025. Pick a subject in the sidebar.")
 DATA = Path(__file__).resolve().parent.parent / "data" / "processed"/ "hsc_bands_clean.csv"
 
 #cache the data
@@ -63,3 +63,4 @@ top_by_subject.plot(kind="barh", ax=ax3, color=colors)
 ax3.set_xlabel("Mean % in top band (Band 6 / E4), 2021–2025")
 ax3.set_title("Top-band rate by subject")
 st.pyplot(fig3)
+st.caption("Note: Extension courses use a 4-band scale (E1–E4), so their top-band rate isn't directly comparable to the 6-band courses.")
